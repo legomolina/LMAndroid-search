@@ -2,7 +2,7 @@
 
 ##### Introduction
 LMAndroid-search is a little library which allows you to create a material design search top bar.<br />
-I've got Hamburguer icon from <a hregf="http://callmenick.com/post/animating-css-only-hamburger-menu-icons" target="_blank">this web</a>; and search icon from <a href="https://material.io/icons/" target="_blank">google's icon database</a>.
+I've got Hamburguer icon from <a href="http://callmenick.com/post/animating-css-only-hamburger-menu-icons" target="_blank">this web</a>; and search icon from <a href="https://material.io/icons/" target="_blank">google's icon database</a>.
 
 ##### Installation
 <b>This library needs <a href="https://jquery.com/" target="_blank">Jquery</a> to use it.</b> Don't be a fool and go to jquery site and download the latest version<br />
