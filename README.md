@@ -1,6 +1,6 @@
 # LMAndroid-search
 
-[LMAndroid-search](http://i.imgur.com/oeCeXJb.gifv)
+![LMAndroid-search](http://i.imgur.com/oeCeXJb.gifv)
 
 ##### Introduction
 LMAndroid-search is a little library which allows you to create a material design search top bar.<br />
